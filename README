@@ -1,0 +1,6 @@
+This library enables you to use the Google Gears Geolocation API on your Nokia N900.
+It uses DBus to determine the current GSM cell and WLAN access points and sends
+the results to Google in order to get the current location.
+This library is distributed under GNU LGPL, see LICENCING for details.
+
+Written by Simon Kern, googlegeolocation@trimpel.de
